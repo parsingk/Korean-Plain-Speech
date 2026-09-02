@@ -1,0 +1,19 @@
+{
+  "name": "korean-plain-speech",
+  "version": "0.1.0",
+  "description": "Claude Code 답변을 한국 개발자가 읽기 쉬운 한국어로 바꿉니다. 영어 직역 말투를 걷어내고, 억지 번역어를 만들지 않으며, 코드 설명 앞에 기획자도 따라올 수 있는 전체 흐름을 먼저 놓습니다. 코딩 동작은 그대로 유지합니다.",
+  "author": {
+    "name": "parkjp",
+    "email": "parkjp@anipen.com"
+  },
+  "homepage": "https://github.com/parsingk/Korean-Plain-Speech",
+  "repository": "https://github.com/parsingk/Korean-Plain-Speech",
+  "license": "Apache-2.0",
+  "keywords": [
+    "korean",
+    "output-style",
+    "localization",
+    "communication",
+    "plain-language"
+  ]
+}

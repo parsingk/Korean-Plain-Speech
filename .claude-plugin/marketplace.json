@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "korean-plain-speech",
+  "description": "한국 개발자를 위한 Claude Code 답변 문체 플러그인 마켓플레이스",
+  "owner": {
+    "name": "parkjp",
+    "email": "parkjp@anipen.com"
+  },
+  "metadata": {
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "korean-plain-speech",
+      "source": "./",
+      "description": "영어 직역 말투를 걷어내고, 코드 설명 앞에 기획자도 따라올 수 있는 흐름을 먼저 놓는 output style. 코딩 동작은 그대로 유지합니다.",
+      "category": "productivity",
+      "tags": ["korean", "output-style", "localization", "plain-language"]
+    }
+  ]
+}
